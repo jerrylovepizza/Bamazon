@@ -1,0 +1,13 @@
+item_id,product_name,department_name,price,stock_quantity,product_sales
+1010024,"TP organic banana",grocery,0.59,13698,5900.00
+1020035,"OG organic apple",grocery,2.99,19995,2990.00
+1234568,"xmas led",garden,20.00,13691,6020.59
+2020321,"DS fur glove",clothing,20.59,29997,61.77
+2110111,"PLO tie blue",clothing,15.99,14999,10302.00
+2110112,"PLO tie red",clothing,18.99,23002,3002.00
+6540042,"ML wireless keyboard",electronic,49.99,5899,55038.99
+6550069,"AK wireless mouse",electronic,69.99,8999,69.99
+9010410,"Season flower#329",garden,10.00,40,54251.00
+9010437,"Season flower#334",garden,10.00,49480,5200.00
+9010440,"Season flower#338",garden,10.00,39985,150.00
+9999999,"Onion Sword","hidden props",9999.00,5,19998.00

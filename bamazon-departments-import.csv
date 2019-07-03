@@ -1,0 +1,6 @@
+department_id,department_name,over_head_costs,product_sales
+101,grocery,10000,8890
+102,clothing,10000,13365.77
+104,electronic,50000,55108.98
+106,garden,50000,65621.59
+999,hidden props,1,19998
