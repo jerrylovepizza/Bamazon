@@ -12,9 +12,9 @@ Bamazon is composed with three apps.
 * Bamazon supervisor app
 ✒️ 1. Customer App:
 concert
-
+![Image scr01](./scr01.png)
 A MySQL Database called bamazon.
-
+![Image scr02](./scr02.png)
 A Table inside of that database called products.
 
 The products table have each of the following columns:
