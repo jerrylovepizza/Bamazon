@@ -1,25 +1,25 @@
-# Bamazon
+## Bamazon
 📦 Bamazon
-Overview
+### Overview
 Bamazon is an Amazon-like storefront with the MySQL database. The app will take in orders from customers and deplete stock from the store's inventory. You can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store. It is a command line app that takes in parameters and gives you back data. The app receive user input using the maysql, inquirer, chalk, figlet and boxen npm packages.
 
 
 
-📓 Instruction
-Bamazon is composed with three apps.
+## 📓 Instruction
+### Bamazon is composed with three apps.
 * Bamazon customer app
 * Bamazon manager app
 * Bamazon supervisor app
-✒️ 1. Customer App:
+### ✒️ 1. Customer App:
 concert
 ![Image scr01](./scr01.png)
 A MySQL Database called bamazon.
 ![Image scr02](./scr02.png)
-A Table inside of that database called products.
+* A Table inside of that database called products.
 
-The products table have each of the following columns:
+#### The products table have each of the following columns:
 
-item_id (unique id for each product)
+- [x]  item_id (unique id for each product)
 product_name (Name of product)
 department_name
 price (cost to customer)
