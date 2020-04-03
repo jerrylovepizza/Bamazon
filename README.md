@@ -5,7 +5,7 @@ Bamazon is an Amazon-like storefront with the MySQL database. The app will take 
 
 
 
-## 📓 Instruction
+### 📓 Instruction
 ### Bamazon is composed with three apps.
 * Bamazon customer app
 * Bamazon manager app
@@ -13,7 +13,7 @@ Bamazon is an Amazon-like storefront with the MySQL database. The app will take 
 ### ✒️ 1. Customer App:
 concert
 ![Image scr01](./scr01.png)
-A MySQL Database called bamazon.
+* A MySQL Database called bamazon.
 ![Image scr02](./scr02.png)
 * A Table inside of that database called products.
 
