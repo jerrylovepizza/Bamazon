@@ -68,9 +68,9 @@ concert
 * Create New Department
 #### When a supervisor selects View Product Sales by Department, the app will display a summarized table in their terminal/bash window.
 
-department_id	department_name	over_head_costs	product_sales	total_profit
-01	Electronics	10000	20000	10000
-02	Clothing	60000	100000	40000
+- [x] department_id	department_name	over_head_costs	product_sales	total_profit
+- [x] 01	Electronics	10000	20000	10000
+- [x] 02	Clothing	60000	100000	40000
 concert
 
 The total_profit column is calculated on the fly using the difference between over_head_costs and product_sales. total_profit won't be stored in any database.
