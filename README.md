@@ -73,7 +73,7 @@ concert
 - [x] 02	Clothing	60000	100000	40000
 concert
 
-The total_profit column is calculated on the fly using the difference between over_head_costs and product_sales. total_profit won't be stored in any database.
+* The total_profit column is calculated on the fly using the difference between over_head_costs and product_sales. total_profit won't be stored in any database.
 concert
 
 concert
