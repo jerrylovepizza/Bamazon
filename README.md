@@ -35,7 +35,7 @@ concert
 #### This means updating the SQL database to reflect the remaining quantity.
 ##### Once the update goes through, show the customer the total cost of their purchase. concert
 
-#### ✒️ 2. Manager App:
+### ✒️ 2. Manager App:
 ##### A Node application called bamazonManager.js. Running this application will:
 
 * List a set of menu options:
@@ -53,7 +53,7 @@ concert
 * If a manager selects Add New Product, it will allow the manager to add a completely new product to the store. concert
 
 
-#### ✒️ 3. Supervisor App:
+### ✒️ 3. Supervisor App:
 ##### A MySQL table called departments includes the following columns:
 
 - [x] department_id
@@ -77,12 +77,12 @@ concert
 
 concert
 
-### Author
+#### Author
 
-### Jerry Dai
+#### Jerry Dai
 
 Game Repo
 
-#### Copyright
+##### Copyright
 
-#### Jerry Dai © 2019 All Rights Reserved
+##### Jerry Dai © 2019 All Rights Reserved
